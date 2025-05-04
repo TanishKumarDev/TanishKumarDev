@@ -1,85 +1,69 @@
-## 👋 Hey, I'm **Tanish Kumar**
+# 👋 Hi, I'm Tanish Kumar
 
-### 🚀 Full-Stack Developer | Problem Solver | Learning in Public  
-Crafting clean code, solving real problems, and building products that matter.
+🚀 Full-Stack Developer | Problem Solver | Lifelong Learner  
 
----
-
-### 🧠 What I'm About  
-
-💻 **Full-Stack Engineering**  
-- Building powerful, real-world applications using the **MERN Stack**  
-- Passionate about clean architecture, performance, and industry-level practices  
-- Currently building: _Advanced To-Do & Productivity App_ + _Personal Portfolio with MERN_
-
-📚 **DSA & Competitive Programming**  
-- Solving DSA in **C++**, following a structured “Brute → Better → Optimal” approach  
-- Currently pushing Codeforces rating from **Newbie → Candidate Master** by June 2025  
-- Focused on quality over quantity, with deep analysis and edge-case mastery  
-
-📘 **Learning in Public**  
-- Sharing progress, learnings, and insights daily on [LinkedIn](#) and [X (Twitter)](#)  
-- Believe in growing with community, collaboration, and consistency  
-
-🧩 **Off-Campus Ready**  
-- Resume optimized 🔍  
-- GitHub, LinkedIn, Portfolio → Professional, clean, and active  
-- Exploring intern and full-time SWE + Teaching opportunities  
+Passionate about building impactful digital products with the MERN stack, mastering algorithms in C++, and sharing my journey with the community.
 
 ---
 
-### 🛠️ My Tech Arsenal  
+## 🧠 About Me
 
-**Frontend**  
-`React` • `Next.js` • `TypeScript` • `TailwindCSS` • `HTML` • `CSS` • `JavaScript`
-
-**Backend**  
-`Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `Prisma`
-
-**DevOps & Deployment**  
-`Git & GitHub` • `Docker` • `GitHub Actions` • `Vercel` • `Netlify`
-
-**Extras & Integrations**  
-`Stripe` • `Firebase` • `Redis` • `Cloudinary` • `Framer Motion` • `Zod`
-
-**Languages & CS Concepts**  
-`C++ (DSA Mastery)` • `JavaScript` • `Python` • `OOPs` • `DBMS` • `System Design`
+- 💻 **Full-Stack Engineer**: Developing real-world applications using **React**, **Node.js**, **Express**, **MongoDB**, and modern tools like **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- 📚 **DSA Practitioner**: Solving problems daily in **C++**.
+- 📢 **Learning in Public**: Sharing progress and insights regularly on **LinkedIn** and **X**.
+- 🎯 **Career Focus**: Pursuing software engineering internships and teaching opportunities while building a solid personal brand through open-source, writing, and real-world projects.
 
 ---
 
-### 📌 Current Goals  
+## 🔧 Currently Building
 
-🔹 **Master DSA in C++** with GfG 160 Days Challenge  
-🔹 **MERN Stack Projects** – Solving real-world problems, not just tutorials  
-🔹 **Become Candidate Master on Codeforces**  
-🔹 **Grow Personal Brand** on GitHub, LinkedIn, and X  
-🔹 **Crack Top Internships** with a solid mix of skills + presence + communication
+- ✅ **Advanced To-Do & Productivity App** — MERN-based project focused on UX, performance & real-world use cases.
+- ✅ **Personal Developer Portfolio** — Showcasing skills, blogs, and full-stack projects.
 
 ---
 
-### 📈 GitHub Stats  
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish2002&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish2002&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanish2002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 🤝 Let's Connect  
-
-📬 **Email**: tanish@example.com _(replace with actual)_  
-💼 **LinkedIn**: [linkedin.com/in/tanishkumar](#)  
-📁 **Portfolio**: Coming soon...  
-🐦 **X (Twitter)**: [@tanish_codes](#)  
-🌱 Always open to collaboration, mentorship, and meaningful discussions.
+| Category     | Technologies |
+|--------------|--------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
+| **Backend**  | Node.js, Express.js, MongoDB, PostgreSQL, Prisma |
+| **DevOps**   | Git, GitHub, Docker, GitHub Actions, Vercel, Netlify |
+| **Extras**   | Stripe, Firebase, Redis, Cloudinary, Framer Motion |
+| **Languages**| C++, JavaScript, Python |
+| **CS Concepts** | OOP, DBMS, System Design |
 
 ---
 
-### ✨ Fun Facts  
+## 🎯 2025 Goals
 
-- 🧩 Learning 6 Full-Stack Projects in 31 Days Challenge  
-- 💡 I believe in "Learn. Build. Share. Repeat."  
-- 🧠 Favorite quote: _"Consistency is the ultimate flex."_  
-- 🎯 Building not just to showcase, but to solve **real problems**
+- 🧩 Complete **GfG 160 Days DSA Challenge** (C++)
+- 🏗 Build **3 production-ready MERN apps** solving real-world problems
+- 🏆 Reach **Candidate Master** on **Codeforces**
+- 📈 Grow my presence on **GitHub**, **LinkedIn**, and **X** through consistent, valuable content
+- 💼 Secure a **top-tier SWE Internship** with a strong portfolio and dev skills
+
+---
+
+
+## 🤝 Let's Connect
+
+- 📬 **Email**: tanish@example.com  
+- 💼 **LinkedIn**: [linkedin.com/in/tanishkumar](https://linkedin.com/in/tanishkumar)  
+- 🐦 **X (Twitter)**: [@tanish_codes](https://twitter.com/tanish_codes)  
+- 🌐 **Portfolio**: _Coming Soon_  
+- 🤝 Open to **collaborations**, **mentorship**, and **tech discussions**
+
+---
+
+## ✨ Fun Facts
+
+- 🔥 Tackling **6 Full-Stack Projects in 31 Days**  
+- 💡 Motto: _“Learn. Build. Share. Repeat.”_  
+- 💭 Favorite Quote: _“Consistency is the ultimate flex.”_  
+- 🎯 I build solutions that **solve real problems**, not just for show.
+
+---
+
+> 📌 _"Building my dream career, one line of code at a time."_
+
