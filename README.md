@@ -8,7 +8,9 @@
 - Solving 200+ DSA problems in C++ (GfG + LeetCode)
 - Strengthening OS, DBMS, CN, and System Design fundamentals
 - Learning TypeScript and integrating AI tools (OpenAI/Gemini) into real apps
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-200%2B_problems-orange)
 
+[![](https://img.shields.io/badge/PedroTech-Beta%20Tester-blueviolet?logo=react)](https://beta.webdevultra.com)
 
 ## 🏆 Experience
 
