@@ -34,11 +34,13 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** C, C++, Python, JavaScript  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL, Firebase  
-- **DevOps & Tools:** Git, GitHub, Vercel, Netlify, Postman  
+- ⚡ **Languages:** C++, Python, JavaScript  
+- 🎨 **Frontend:** React.js, Next.js, Tailwind CSS  
+- 🛠️ **Backend:** Node.js, Express.js  
+- 🗄️ **Databases:** MongoDB, PostgreSQL, Firebase  
+- 🚀 **DevOps & Tools:** Git, GitHub, Vercel, Netlify, Postman  
+- 🔐 **Auth:** Clerk, NextAuth.js  
+- 🤖 **AI Integrations:** OpenAI, Google Gemini, Inngest  
 
 ---
 
@@ -62,5 +64,5 @@
 ---
 
 <div align="center">
-⭐️ Always open to collaborations, internships, and exciting projects!
+⭐ Always open to collaborations, internships, and exciting projects!
 </div>
